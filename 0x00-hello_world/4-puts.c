@@ -1,6 +1,6 @@
 #include "stdio.h"
 /*
- 	print message using puts function in stdio.h
+ * print message using puts function in stdio.h
 */
 int main(void)
 {
